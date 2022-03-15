@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasBuisson
-- 👀 I’m interested in SEM, High-Tech, Video Games 
-- 🌱 I’m currently learning SEM, Python and PowerShell by my own
+- 👀 I’m interested in SEM, High-Tech, Video Games and motorsport
+- 🌱 I’m currently learning SEM, Web Development and some tech around PWA by my own
 - 📫 How to reach me 
     > Mail : thomas-buisson@live.fr
 <!--- - 💞️ I’m looking to collaborate on ... --->
